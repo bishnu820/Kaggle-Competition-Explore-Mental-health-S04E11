@@ -6,4 +6,4 @@
 * Utilized mutual information for feature selection to prioritize the most impactful variables.
 * Experimented with various machine learning models, including Logistic Regression, SVM, Random Forest, CatBoost, LightGBM, and XGBoost.
 * Implemented ensemble methods such as Voting Classifier and Stacking Classifier to improve prediction robustness.
-* Achieved a private leaderboard accuracy score of 94.077%, showcasing competitive performance.
+* Achieved a private leaderboard accuracy score of 94.023%, showcasing competitive performance.
